@@ -65,6 +65,8 @@ public class SeleniumService {
 
             System.out.println(tweetMadeByName);
             System.out.println(tweetContent);
+
+            /*Use the post info as needed*/
         });
     }
 
